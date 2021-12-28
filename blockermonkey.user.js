@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blocker Monkey
 // @namespace    https://greasyfork.org/zh-TW/users/848949-kajipa-coder
-// @version      1.5
+// @version      1.0
 // @description  An addon prevents children visiting Gaming Website.Made with JS.
 // @license      Blocker Monkey @ CopyRight 2022
 // @author       Jypa
