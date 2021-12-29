@@ -35,6 +35,7 @@
 // @run-at       document-start
 // ==/UserScript==
 //Loop Alert x253
+//Connect the addons
 (function() {
     'use strict';
     alert("BLOCKING WEB LTD")
